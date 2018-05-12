@@ -1,0 +1,37 @@
+_repo: Essays-In-Pastoral-Medicine_39036
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: O'Malley, Austin
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '39804'
+    url: http://www.gutenberg.org/2009/agents/39804
+  - agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, J. J. (James Joseph)
+    - Walsh, James Joseph
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_issued: '2012-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39036'
+  lccn: 06026486
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First aid in illness and injury'
+- !lcsh 'Medicine'
+- !lcc 'RC'
+title: Essays In Pastoral Medicine
+url: http://www.gutenberg.org/ebooks/39036
